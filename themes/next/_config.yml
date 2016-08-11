@@ -6,7 +6,7 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, NexT"
+keywords: "TinySlik"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -14,7 +14,7 @@ keywords: "Hexo, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2016
 
 
 
@@ -133,7 +133,7 @@ sidebar:
 #   image: url-of-image   - Images's url
 custom_logo:
   enabled: true
-  image: http://chuantu.biz/t2/33/1458804079x1035372891.jpg
+  image: http://7xt003.com1.z0.glb.clouddn.com/94658PICQHh.jpg
 
 
 # Code Highlight theme
@@ -182,11 +182,11 @@ duoshuo_shortname: tinyslik
 ##  type: button
 
 # Share
-#jiathis:
+jiathis: http://tinyslik.github.io
 #add_this_id:
 
 # Share
-#duoshuo_share: true
+# duoshuo_share: true
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
