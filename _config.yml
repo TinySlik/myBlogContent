@@ -68,10 +68,13 @@ pagination_dir: page
 theme: next
 #theme: magnetic
 # Deployment
-## Docs: https://hexo.io/docs/deployment.html
+## Doc: https://hexo.io/docs/deployment.html
+
 deploy:
   type: git
-  repository: https://github.com/TinySlik/TinySlik.github.io.git
+  repo: 
+    github: https://github.com/TinySlik/TinySlik.github.io.git
+    coding: https://git.coding.net/tinyslik/tinyslik.coding.me.git
   branch: master
 
 backup:
