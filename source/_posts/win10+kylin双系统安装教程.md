@@ -1,5 +1,6 @@
 ---
 title: 折腾uefi下win10与Ubuntu 16.04 LTS双系统，完美兼容grub2引导
+date: 2017/2/10 20:46:25
 ---
 
 
